@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Gauravpratapsinghjadon/Best-sayari#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.4"
   },
   "engines": {
     "node": "12.10.0"
