@@ -7,7 +7,7 @@ app.get("/",(req, res)=>{
 })
 
 app.get('/define',(req,res)=>{
-    res.status(200).json({hello:"ram lal" })
+    res.status(200).json({hello:"ram lal",id:'12' })
 })
 app.listen(port ,()=>{
     console.log("Example node js")
