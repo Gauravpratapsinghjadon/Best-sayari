@@ -1,6 +1,7 @@
 const express =require('express');
 const app = express();
 const path = require('./src/api/headings')
+const love = require('./src/api/Love')
 app.get('/',(req,res)=>{
     res.status(200).json({
         hello:'hello put Api'
@@ -8,6 +9,7 @@ app.get('/',(req,res)=>{
 })
 
 app.use("/headings",path)
+app.use("/love",love)
 app.use((req,res,next)=>{
     const error =new Error('Not Found')
     error.status(404);
