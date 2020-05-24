@@ -2,37 +2,44 @@
     {
         "id":1,
         "quote":"Love Sayari",
-        "rgbColor":"#0693e3"
+        "rgbColor":"#0693e3",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":2,
         "quote":"Romantic Sayari",
-        "rgbColor":"#006b76"
+        "rgbColor":"#006b76",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":3,
         "quote":"Friendship Sayari",
-        "rgbColor":"#9b9b9b"
+        "rgbColor":"#9b9b9b",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":4,
         "quote":"Heart Touching Sayari",
-        "rgbColor":"#18381c"
+        "rgbColor":"#18381c",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":5,
         "quote":"Punjabi Sayari",
-        "rgbColor":"#9b9b9b"
+        "rgbColor":"#9b9b9b",
+        "url":"https://hellosayari.herokuapp.com/love"
     }
     ,{
         "id":6,
         "quote":"Sad Sayari",
-        "rgbColor":"#2d7c36"
+        "rgbColor":"#2d7c36",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":7,
         "quote":"Good Morning Sayari",
-        "rgbColor":"#7f7281"
+        "rgbColor":"#7f7281",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":8,
@@ -42,7 +49,8 @@
     {
         "id":9,
         "quote":"Bebpha Sayari",
-        "rgbColor":"#9b9b9b"
+        "rgbColor":"#9b9b9b",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":10,
@@ -52,16 +60,19 @@
     {
         "id":11,
         "quote":"Motivation Sayari",
-        "rgbColor":"#6c1db2"
+        "rgbColor":"#6c1db2",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":12,
         "quote":"Atitude Sayari",
-        "rgbColor":"#5d8f2b"
+        "rgbColor":"#5d8f2b",
+        "url":"https://hellosayari.herokuapp.com/love"
     },
     {
         "id":13,
         "quote":"Funny Sayari",
-        "rgbColor":"#bd10e0"
+        "rgbColor":"#bd10e0",
+        "url":"https://hellosayari.herokuapp.com/love"
     }
 ]
