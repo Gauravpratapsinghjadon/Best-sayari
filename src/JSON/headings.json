@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "quote":"Love Sayari",
+        "rgbColor":"#0693e3"
+    },
+    {
+        "id":2,
+        "quote":"Romantic Sayari",
+        "rgbColor":"#006b76"
+    },
+    {
+        "id":3,
+        "quote":"Friendship Sayari",
+        "rgbColor":"#9b9b9b"
+    },
+    {
+        "id":4,
+        "quote":"Hearth Touching Sayari",
+        "rgbColor":"#18381c"
+    },
+    {
+        "id":5,
+        "quote":"Punjabi Sayari",
+        "rgbColor":"#9b9b9b"
+    }
+    ,{
+        "id":6,
+        "quote":"Sad Sayari",
+        "rgbColor":"#2d7c36"
+    },
+    {
+        "id":7,
+        "quote":"Good Morning Sayari",
+        "rgbColor":"#7f7281"
+    },
+    {
+        "id":8,
+        "quote":"Good Night Sayari",
+        "rgbColor":"#9a34af"
+    },
+    {
+        "id":9,
+        "quote":"Bebpha Sayari",
+        "rgbColor":"#9b9b9b"
+    },
+    {
+        "id":10,
+        "quote":"Valentine day Sayari",
+        "rgbColor":"#835e21"
+    },
+    {
+        "id":11,
+        "quote":"Motivation Sayari",
+        "rgbColor":"#6c1db2"
+    },
+    {
+        "id":12,
+        "quote":"Atitude Sayari",
+        "rgbColor":"#5d8f2b"
+    },
+    {
+        "id":13,
+        "quote":"Funny Sayari",
+        "rgbColor":"#bd10e0"
+    }
+]
